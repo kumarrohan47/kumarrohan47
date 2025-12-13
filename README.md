@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Rohan Kumar Jha 👋
 
-<!--
-**kumarrohan47/kumarrohan47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Student | 💻 Programmer | 📊 Analytics Enthusiast  
 
-Here are some ideas to get you started:
+I’m a Computer Science student focused on **Data Science, Machine Learning, and Software Development**.  
+Currently building projects, improving problem-solving skills, and preparing for placements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools
+
+**Languages**
+- Java
+- C++
+- Python
+
+**Data Science & ML**
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+**Web & Tools**
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+- Git & GitHub
+- Power BI
+- Excel
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Comparative Study on Bias Mitigation in Supervised Learning
+- Analyzed bias in ML models using real-world datasets  
+- Implemented preprocessing, fairness metrics, and visualization  
+- Evaluated demographic parity and feature importance  
+
+### 🔹 Seminar Workshop Management Portal
+- Student registration system with certificate generation  
+- Fully responsive UI using Tailwind CSS  
+- No payment gateway, focused on accessibility  
+
+### 🔹 Data Analysis & Visualization Projects
+- EDA on multiple datasets  
+- Regression and hypothesis testing  
+- Interactive dashboards using Power BI  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- Email: your_email@example.com
+
+---
+
+⭐ *Consistently learning, building, and improving.*
