@@ -1,30 +1,31 @@
-# Hi, I'm Rohan Kumar Jha 👋
+# Rohan Kumar Jha
 
-🎓 Data Science Student | 💻 Programmer | 📊 Analytics Enthusiast  
+🎓 Data Science Student at Lovely Professional University  
+💻 Java | C++ | Python | Data Analysis | Machine Learning  
 
-I’m a Computer Science student focused on **Data Science, Machine Learning, and Software Development**.  
-Currently building projects, improving problem-solving skills, and preparing for placements.
+I build **data-driven projects** and write **clean, practical code**.  
+Currently focused on strengthening **DSA, core programming, and applied data science** for placements.
 
 ---
 
-## 🔧 Skills & Tools
+## 🛠 Technical Skills
 
-**Languages**
+**Programming Languages**
 - Java
 - C++
 - Python
 
-**Data Science & ML**
+**Data Science & Analytics**
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- Statistical Analysis
+- EDA
 
 **Web & Tools**
-- HTML
-- CSS
-- JavaScript
+- HTML, CSS, JavaScript
 - Tailwind CSS
 - Git & GitHub
 - Power BI
@@ -32,38 +33,43 @@ Currently building projects, improving problem-solving skills, and preparing for
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Projects
 
-### 🔹 Comparative Study on Bias Mitigation in Supervised Learning
-- Analyzed bias in ML models using real-world datasets  
-- Implemented preprocessing, fairness metrics, and visualization  
-- Evaluated demographic parity and feature importance  
+### Bias Mitigation in Supervised Machine Learning
+- Studied bias in real-world datasets and ML models  
+- Applied preprocessing and fairness techniques  
+- Evaluated models using demographic parity and feature importance  
+- Visualized results for clear comparison  
 
-### 🔹 Seminar Workshop Management Portal
-- Student registration system with certificate generation  
-- Fully responsive UI using Tailwind CSS  
-- No payment gateway, focused on accessibility  
+### Seminar Workshop Management Portal
+- Built a complete student registration system  
+- Automated certificate generation  
+- Designed responsive UI using Tailwind CSS  
+- Focused on simplicity and accessibility  
 
-### 🔹 Data Analysis & Visualization Projects
-- EDA on multiple datasets  
-- Regression and hypothesis testing  
-- Interactive dashboards using Power BI  
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumarrohan47&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarrohan47&layout=compact&theme=tokyonight)
+### Data Analysis & Visualization
+- Performed EDA on multiple datasets  
+- Implemented regression and hypothesis testing  
+- Created dashboards using Power BI  
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Activity
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumarrohan47&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarrohan47&layout=compact&theme=github_dark)
+
+---
+
+## 🎯 Current Focus
+- Data Structures & Algorithms
+- Core Java and C++ (industry level)
+- Machine Learning fundamentals
+- Placement preparation
+
+---
+
+## 📬 Contact
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
 - Email: your_email@example.com
-
----
-
-⭐ *Consistently learning, building, and improving.*
