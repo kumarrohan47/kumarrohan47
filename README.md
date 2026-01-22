@@ -71,5 +71,5 @@ Currently focused on strengthening **DSA, core programming, and applied data sci
 ---
 
 ## 📬 Contact
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
-- Email: your_email@example.com
+- LinkedIn: https://www.linkedin.com/in/rohankumarjha47
+- Email: awsrohankumar@gmail.com
